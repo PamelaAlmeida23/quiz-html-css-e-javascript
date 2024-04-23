@@ -1,0 +1,39 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #d94aec;
+  }
+  
+  #question {
+    margin-bottom: 20px;
+  }
+  
+  #choices {
+    margin-bottom: 20px;
+  }
+  
+  #submit {
+    background-color: #e286de;
+    color: #d41818f807;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #submit:hover {
+    background-color: #774281;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
